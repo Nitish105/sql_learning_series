@@ -1,1 +1,1 @@
-# sql_learning_series
+# sql_learning_commands
