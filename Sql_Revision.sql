@@ -425,7 +425,6 @@ FROM studentRecord;
 
 -- VIEW Command
 -- it is temparay table
-
 CREATE VIEW view1 AS
 SELECT rollno, name, marks FROM studentRecord;
 
